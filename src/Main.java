@@ -48,11 +48,11 @@ public class Main {
         var result=boxer1+boxer2;
         System.out.println(result);
 
-        System.out.println("Задача №7");
+        System.out.println("Задача №7!");
         result=boxer2/boxer1;
         System.out.println(result);
 
-        System.out.println("Задача №8");
+        System.out.println("Задача №8!");
         var totalHoursOfOperation=640;
         var hours=8;
         var staff= totalHoursOfOperation/hours;
